@@ -26,7 +26,7 @@ This project analyzes Adidas sales data from [Kaggle Dataset](https://www.kaggle
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](media/Capture)
+![Dashboard Screenshot](media/Capture.PNG)
 
 ---
 
