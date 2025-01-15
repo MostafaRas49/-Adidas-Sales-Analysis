@@ -18,4 +18,4 @@ This project analyzes Adidas sales data to uncover insights about product perfor
 ## 📥 How to Access
 Download the Excel file from this repository and open it to view the full analysis.
 ![Dashboard Screenshot](path/to/image.png)
-
+/media
